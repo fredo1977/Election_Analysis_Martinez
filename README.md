@@ -2,11 +2,11 @@
 ## Project Overview
  A Colorado Board of Elections manager has requested a efficient and streamlined process to analyze voting results in a recent election.   
 
-*Determine the total number of votes cast.
-*Provide a complete list of candidates who received votes.
-*Determine the number of votes cast per candidate.
-*Calculate the percentage of votes cast per candidate.
-*Determine the winner of the popular vote.
+1. Determine the total number of votes cast.
+2. Provide a complete list of candidates who received votes.
+3. Determine the number of votes cast per candidate.
+4. Calculate the percentage of votes cast per candidate.
+5. Determine the winner of the popular vote.
 
  ## Resources
  Date Source: election_results.csv <br>

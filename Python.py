@@ -48,7 +48,7 @@ with open(file_to_load,"r") as election_data:
 # Using the with statement open the file as a text file.
 with open(file_to_save, "w") as txt_file:
     election_results = (
-        f"Election Results\n"
+        f"\nElection Results\n"
         f"--------------------\n"
         f"Total Votes: {total_votes:,}\n"
         f"---------------------\n")
@@ -64,17 +64,19 @@ with open(file_to_save, "w") as txt_file:
      print(candidate_results)
      txt_file.write(candidate_results)
 
-    if (votes > winning_count) and (vote_percentage > winning_percentage):
+     if (votes > winning_count) and (vote_percentage > winning_percentage):
        winning_count = votes
        winning_candidate = candidate
        winning_percentage = vote_percentage
 
-
-winning_candidate_summary = (
-    f"--------------------\n"
-    f"Winner: {winning_candidate}\n"
-    f"Winning Vote Count: {winning_count:,}\n"
-    f"Winning Percentage: {winning_percentage:.1f}%\n"
-    f"---------------------\n")
+     winning_candidate_summary = (
+     f"--------------------\n"
+     f"Winner: {winning_candidate}\n"
+     f"Winning Vote Count: {winning_count:,}\n"
+     f"Winning Percentage: {winning_percentage:.1f}%\n"
+     f"---------------------\n")
    
-print(winning_candidate_summary)
+     print(winning_candidate_summary)
+     txt_file.write(winning_candidate_summary)
+
+

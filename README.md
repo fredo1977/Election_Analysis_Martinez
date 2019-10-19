@@ -12,8 +12,8 @@ Determine the winner of the popular vote.
 Date Source: election_results.csv
 Software: Python 3.6.1, Visual Studion Code 1.39.2
 
-##Summary:
-The analysis of the election show the following:
+ ##Summary:
+ The analysis of the election show the following:
 
 There were 369,711 votes cast in the election
 The candidate results were:

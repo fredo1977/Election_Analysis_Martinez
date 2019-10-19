@@ -1,5 +1,5 @@
 # Election_Analysis_Martinez
-##Project Overview
+## Project Overview
  A Colorado Board of Elections manager has requested a efficient and streamlined process to analyze voting results in a recent election.    If satisfied with the product, rollout to the entire state is a possibility. The following deliverables are expected.
 
 Determine the total number of votes cast.
@@ -8,11 +8,11 @@ Determine the number of votes cast per candidate.
 Calculate the percentage of votes cast per candidate.
 Determine the winner of the popular vote.
 
- ##Resources
+ ## Resources
  Date Source: election_results.csv
  Software: Python 3.6.1, Visual Studion Code 1.39.2
 
- ##Summary:
+ ## Summary:
  The analysis of the election show the following:
 
 There were 369,711 votes cast in the election

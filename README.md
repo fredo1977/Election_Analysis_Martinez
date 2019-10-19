@@ -9,7 +9,7 @@ Calculate the percentage of votes cast per candidate.
 Determine the winner of the popular vote.
 
  ## Resources
- Date Source: election_results.csv
+ Date Source: election_results.csv <br>
  Software: Python 3.6.1, Visual Studion Code 1.39.2
 
  ## Summary:

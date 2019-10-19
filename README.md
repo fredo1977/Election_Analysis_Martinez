@@ -1,6 +1,6 @@
 # Election_Analysis_Martinez
 ##Project Overview
-A Colorado Board of Elections manager has requested a efficient and streamlined process to analyze voting results in a recent election. If satisfied with the product, rollout to the entire state is a possibility. The following deliverables are expected.
+ A Colorado Board of Elections manager has requested a efficient and streamlined process to analyze voting results in a recent election.    If satisfied with the product, rollout to the entire state is a possibility. The following deliverables are expected.
 
 Determine the total number of votes cast.
 Provide a complete list of candidates who received votes.
@@ -8,9 +8,9 @@ Determine the number of votes cast per candidate.
 Calculate the percentage of votes cast per candidate.
 Determine the winner of the popular vote.
 
-##Resources
-Date Source: election_results.csv
-Software: Python 3.6.1, Visual Studion Code 1.39.2
+ ##Resources
+ Date Source: election_results.csv
+ Software: Python 3.6.1, Visual Studion Code 1.39.2
 
  ##Summary:
  The analysis of the election show the following:

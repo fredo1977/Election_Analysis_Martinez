@@ -22,3 +22,4 @@ Diana DeGette received 272,892 votes, comprising 73.8% of the total cast
 Raymon Anthony Doane received 11,606 votes, comprising 3.1% of the total cast
 The winner of the popular vote was:
 Diana DeGette who received 272,892 votes, comprising 73.8% of the total cast
+
